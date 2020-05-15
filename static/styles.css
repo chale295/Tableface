@@ -1,0 +1,33 @@
+.centeredtext
+{
+    font-weight: bold;
+    text-align: center;
+}
+
+.indented
+{
+    margin-left:40px;
+    margin-right:40px;
+}
+
+/* Source: https://stackoverflow.com/questions/19461521/how-to-center-an-element-horizontally-and-vertically */
+#maintitle
+{
+    color: #ad8762;
+    font-size:800%;
+    right: 50%;
+    bottom: 60%;
+    transform: translate(50%,50%);
+    position: absolute;
+
+}
+
+#tableface
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
