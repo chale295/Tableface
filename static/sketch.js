@@ -19,7 +19,7 @@ function setup() {
 
 
   // Load bottle cap image (source: https://favpng.com/png_view/vector-beer-bottle-material-beer-bottle-bottle-cap-png/P6Bw4unX)
-  cap = loadImage("/static/cap.png");
+  cap = loadImage("https://chale295.github.io/Tableface/static/cap.png");
 
 // Mode selector
   sel = createSelect();
